@@ -1,2 +1,2 @@
-# Myntra-Clone
-An implementation of a Myntra website
+# Amazon-Clone
+An implementation of a Amazon website
